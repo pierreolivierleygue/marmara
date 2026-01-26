@@ -1,0 +1,4 @@
+Cartopy==0.25.0
+matplotlib==3.10.8
+numpy==2.4.1
+requests==2.32.5
