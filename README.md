@@ -1,4 +1,4 @@
-Etude réalisée en 48h, de la récupération des donénes à l'écriture des deux documents (rapport et note)
+Etude réalisée en 48h, de la récupération des données à l'écriture des deux documents (rapport et note)
 
 Le projet est composé 4 fichiers python (database, datacollection, analysis, display).
 
